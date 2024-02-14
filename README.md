@@ -70,6 +70,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 
 - **[MDC IT Troubleticket](https://itsupport.mdc-berlin.net/)** - This is the log-in portal to generate MDC IT related troubletickets for larger problems and everything admin related.
 
+- **[MDC Nextcloud](https://nextcloud.mdc-berlin.de/)** - This is the MDC Nextcloud storage where each user gets an additional 50GB of personal storage.
+
 - **[MDC Filetransfer](https://filetransfer.mdc-berlin.de/WebInterface/login.html)** - This is the MDC Filetransfer server that you can use to share files with collaborators of up to 20GB at a time.
 
 ## Package suites

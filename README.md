@@ -1,4 +1,4 @@
-# Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Check URLs](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/url-check.yml/badge.svg)](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/url-check.yml) [![Generate TOC](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/toc.yml/badge.svg)](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/toc.yml)
+# Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. — [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
 
@@ -8,6 +8,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [Berlin resources](#berlin-resources)
 - [Package suites](#package-suites)
 - [Data Tools](#data-tools)
   - [Downloading](#downloading)
@@ -57,6 +58,19 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
+## Berlin resources
+
+- **[BIH HPC Talk](https://hpc-talk.cubi.bihealth.org/)** - This is a forum for user discussion and the primary channel for broadcast announcements of administration to users.
+
+- **[BIH HPC Docs](https://hpc-docs.cubi.bihealth.org/)** - This is the documentation of the BIH high-performance compute (HPC), also called HPC 4 Research. The BIH HPC cluster is maintained by CUBI (Core Unit Bioinformatics).
+
+- **[BIH HPC Helpdesk](https://hpc-docs.cubi.bihealth.org/help/helpdesk/)** - This is the BIH helpdesk docs and how to reach support there. They can support you mainly with everything BIH cluster.
+
+- **[MDC Bioinformatics](https://bioinformatics.mdc-berlin.de/resources.html)** - This is a list of software, databases and learning material maintained by bioinformatics platform members. More importantly for MDC members and faculty, here is a [1-pager](https://bioinformatics.mdc-berlin.de/1pager.pdf) that summarizes all the support services we provide and how to access them.
+
+- **[MDC IT Troubleticket](https://itsupport.mdc-berlin.net/)** - This is the log-in portal to generate MDC IT related troubletickets for larger problems and everything admin related.
+
+- **[MDC Filetransfer](https://filetransfer.mdc-berlin.de/WebInterface/login.html)** - This is the MDC Filetransfer server that you can use to share files with collaborators of up to 20GB at a time.
 
 ## Package suites
 
